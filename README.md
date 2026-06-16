@@ -1,3 +1,3 @@
-## Olá, eu sou o Matheus 😁
+## Olá! Eu sou o Matheus 😁
 
-Sou estatístico 
+Sou estatístico
