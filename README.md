@@ -66,6 +66,11 @@
 
 ###
 
-<p data-importer="text" align="left"><a href="[https://www.google.com](https://github.com/MatheusEstatistico/Estudo-R)">👨🏻‍💻 Estudo-R</a><br>👨🏻‍💻 Estudo-Python<br>👨🏻‍💻 Estudo-SQL<br>👨🏻‍💻 Estudo-C</p>
+<p data-importer="text" align="left">
+  <a href="https://github.com/MatheusEstatistico/Estudo-R">👨🏻‍💻 Estudo-R</a><br>
+  <a href="https://github.com/MatheusEstatistico/Estudo-Python">👨🏻‍💻 Estudo-Python</a><br>
+  <a href="https://github.com/MatheusEstatistico/Estudo-SQL">👨🏻‍💻 Estudo-SQL</a><br>
+  <a href="https://github.com/MatheusEstatistico/Estudo-C">👨🏻‍💻 Estudo-C</a>
+</p>
 
 ### 
