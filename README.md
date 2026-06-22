@@ -61,3 +61,11 @@
 </div>
 
 ###
+
+<h2 data-importer="text" align="left">Meus repositórios de estudo:</h2>
+
+###
+
+<p data-importer="text" align="left"><a href="[https://www.google.com](https://github.com/MatheusEstatistico/Estudo-R)">👨🏻‍💻 Estudo-R</a><br>👨🏻‍💻 Estudo-Python<br>👨🏻‍💻 Estudo-SQL<br>👨🏻‍💻 Estudo-C</p>
+
+### 
