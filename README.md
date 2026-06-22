@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Trabalho com estatística e dados desde 2020<br>📚 Estou focado em melhorar minhas habilidades de escrita de códigos<br>🎯 Meu principal objetivo é fazer um mestrado<br>🔎Atualmente trabalho com pesquisas na área da saúde</p>
+<p data-importer="text" align="left">✨ Trabalho com estatística e dados desde 2020<br>📚 Estou focado em melhorar minhas habilidades de escrita de códigos<br>🎯 Meu principal objetivo é fazer um mestrado<br>🔎 Atualmente trabalho com pesquisas na área da saúde</p>
 
 ###
 
