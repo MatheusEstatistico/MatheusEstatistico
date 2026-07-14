@@ -1,22 +1,15 @@
-<h1 data-importer="text" align="left">Olá! Eu sou o Matheus 😁</h1>
+<h1>Olá! Eu sou o Matheus 😁</h1>
 
-###
+<p>Sou estatístico formado pela UFMG</p>
 
-<p data-importer="text" align="left">Sou estatístico formado pela UFMG</p>
+## Sobre mim
 
-###
+✨ Trabalho com estatística e dados desde 2020<br>
+📚 Estou focado em melhorar minhas habilidades de programação<br>
+🎯 Meu principal objetivo é fazer um mestrado<br>
+🔎 Atualmente trabalho com pesquisas na área da saúde
 
-<h2 data-importer="text" align="left">Sobre mim</h2>
-
-###
-
-<p data-importer="text" align="left">✨ Trabalho com estatística e dados desde 2020<br>📚 Estou focado em melhorar minhas habilidades de escrita de códigos<br>🎯 Meu principal objetivo é fazer um mestrado<br>🔎 Atualmente trabalho com pesquisas na área da saúde</p>
-
-###
-
-<h2 data-importer="text" align="left">Skills</h2>
-
-###
+## Skills
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
