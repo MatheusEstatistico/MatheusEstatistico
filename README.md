@@ -53,17 +53,9 @@
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
 </div>
 
-###
+## Meus repositórios de estudo
 
-<h2 data-importer="text" align="left">Meus repositórios de estudo:</h2>
-
-###
-
-<p data-importer="text" align="left">
-  👨🏻‍💻<a href="https://github.com/MatheusEstatistico/Estudo-R">Estudo-R</a><br>
-  👨🏻‍💻<a href="https://github.com/MatheusEstatistico/Estudo-Python">Estudo-Python</a><br>
-  👨🏻‍💻<a href="https://github.com/MatheusEstatistico/Estudo-SQL">Estudo-SQL</a><br>
-  👨🏻‍💻<a href="https://github.com/MatheusEstatistico/Estudo-C">Estudo-C</a>
-</p>
-
-### 
+👨🏻‍💻 <a href="https://github.com/MatheusEstatistico/Estudo-R">Estudo-R</a><br>
+👨🏻‍💻 <a href="https://github.com/MatheusEstatistico/Estudo-Python">Estudo-Python</a><br>
+👨🏻‍💻 <a href="https://github.com/MatheusEstatistico/Estudo-SQL">Estudo-SQL</a><br>
+👨🏻‍💻 <a href="https://github.com/MatheusEstatistico/Estudo-C">Estudo-C</a>
