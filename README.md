@@ -4,10 +4,12 @@
 
 ## Sobre mim
 
-✨ Trabalho com estatística e dados desde 2020<br>
+👨🏻‍💻 Trabalho com estatística e dados desde 2020<br>
 📚 Estou focado em melhorar minhas habilidades de programação<br>
 🎯 Meu principal objetivo é fazer um mestrado<br>
-🔎 Atualmente trabalho com pesquisas na área da saúde
+🔎 Atualmente trabalho com pesquisas na área da saúde<br>
+💻 Em 2026 migrei definitivamente para o [Linux](https://github.com/MatheusEstatistico/Linux) :)
+
 
 ## Skills
 
